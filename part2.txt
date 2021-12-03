@@ -1,0 +1,3 @@
+2. To fix a misspell on a BreatheCode Project-
+Result here: https://github.com/ertip4geek/the-misspell-chalenge/tree/patch-1
+
